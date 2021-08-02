@@ -1,0 +1,23 @@
+Phase 1
+
+-->pynput > keyboard, Listen, Export
+--->logging
+
+txt --> File handling
+-->Date and time. Debug 
+
+asctime
+keyclicks
+
+class and objects
+
+----------------------------------------------
+Phase 2
+
+Mail
+
+--> gmail, pass
+--> nodemailer, py 
+
+google will blocking yur source mail
+--> Adding secure mail sending feature
